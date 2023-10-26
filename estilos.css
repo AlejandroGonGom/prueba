@@ -1,0 +1,12 @@
+body {
+    margin: 2cm;
+    background-color: beige;
+    background-image: url("../img/robot2.png");
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position:right;
+    background-attachment: fixed;
+    /*background-image: url("https://estaticos-cdn.sport.es/clip/2d974a53-bec1-4055-8f91-b1a8ddc58da6_alta-libre-aspect-ratio_default_0.jpg");*/
+    opacity: 1;
+    cursor: crosshair;
+}
